@@ -12,6 +12,9 @@
 - watching base ball <br/>
 - daily cooking <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sang12121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sang12121" height="30" width="40" /></a>
