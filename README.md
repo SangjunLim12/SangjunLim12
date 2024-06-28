@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<h2 align="center">DEEP DIVE</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
 <h3 align="center">summary</h3>
 
 <h3 align="left">about me</h3>
@@ -12,7 +16,6 @@
 - watching base ball <br/>
 - daily cooking <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 <h3 align="left">Connect with me:</h3>
