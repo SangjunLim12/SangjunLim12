@@ -1,16 +1,16 @@
 <h3 align="center">summary</h3>
 
 <h3 align="left">about me</h3>
-- 💬 My MBTI : **ENTJ**
-- 🔭 I’m currently Studying at **Chung-Ang University (2021.03 ~)**
-- 🔭 I've Studied at **CUAI (4th)** 
-- 🌱 I’m currently learning **Java** and **Spring**
+- 💬 My MBTI : **ENTJ** <br/>
+- 🔭 I’m currently Studying at **Chung-Ang University (2021.03 ~)** <br/>
+- 🔭 I've Studied at **CUAI (4th)**  <br/>
+- 🌱 I’m currently learning **Java** and **Spring** <br/>
 
 <h3 align="left">interested in</h3>
-- watching movies
-- reading books
-- watching base ball
-- daily cooking
+- watching movies <br/>
+- reading books <br/>
+- watching base ball <br/>
+- daily cooking <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
