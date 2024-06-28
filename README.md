@@ -1,10 +1,16 @@
 <h3 align="center">summary</h3>
 
-- 💬 My MBTI **: ENTJ**
-
+<h3 align="left">about me</h3>
+- 💬 My MBTI : **ENTJ**
 - 🔭 I’m currently Studying at **Chung-Ang University (2021.03 ~)**
+- 🔭 I've Studied at **CUAI (4th)** 
+- 🌱 I’m currently learning **Java** and **Spring**
 
-- 🌱 I’m currently learning **Java and Spring**
+<h3 align="left">interested in</h3>
+- watching movies
+- reading books
+- watching base ball
+- daily cooking
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
