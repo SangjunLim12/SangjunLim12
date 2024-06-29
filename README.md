@@ -1,20 +1,22 @@
 <p align = "center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=DEEP DIVE&fontsize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=DEEP-DIVE&fontsize=35" />
 </p> <br/>
 
 <h3 align="center">summary</h3>
 
 <h3 align="left">about me</h3>
-- 💬 My MBTI : **ENTJ** <br/>
-- 🔭 I’m currently Studying at **Chung-Ang University (2021.03 ~)** <br/>
-- 🔭 I've Studied at **CUAI (4th)**  <br/>
-- 🌱 I’m currently learning **Java** and **Spring** <br/>
+- 💬 My MBTI : ENTJ <br/>
+- 🔭 I’m currently Studying at Chung-Ang University (2021.03 ~) <br/>
+- 🔭 I've Studied at CUAI (4th)  <br/>
+- 🌱 I’m currently learning Java and Spring <br/>
 
 <h3 align="left">interested in</h3>
-- watching movies <br/>
-- reading books <br/>
-- watching base ball <br/>
-- daily cooking <br/>
+- 🎬 watching movies <br/>
+- 📚 reading books <br/>
+- ⚾ watching base ball <br/>
+- 🍽 daily cooking <br/>
+
+- - -
 
 <h3 align="left">Connect:</h3>
 <p align="left">
