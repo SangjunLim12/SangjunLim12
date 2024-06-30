@@ -6,12 +6,13 @@
 
 <h3 align="left">about me</h3>
 - 💬 My MBTI : ENTJ <br/>
-- 🔭 Currently Studying Software Engineering at Chung-Ang University (2021.03 ~)<br/>
-- 🔭 ROKAF 834th : served for Digital Flight SW(Legacy & New model) operation and management (2022.01~2023.10)<br/> 
+- 💻 Currently Studying Software Engineering at Chung-Ang University (2021.03 ~)<br/>
+- ✈ ROKAF 834th : served for Digital Flight SW(Legacy & New model) operation and management (2022.01~2023.10)<br/> 
 - 🔭 41th Daewon Highschool Vice student president<br/>
 - 🔭 Studied as International student at RCA, Surrey, BC, Canada (2015~2016)<br/>
 
 <h3 align="left">interested in</h3>
+- 📷 taking photos <br/>
 - 🎬 watching movies <br/>
 - 📚 reading books <br/>
 - ⚾ watching base ball <br/>
