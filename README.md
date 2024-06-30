@@ -21,7 +21,7 @@
 <h3 align="left">projects</h3>
 2021 :<br/>
   || CUAI conference 4th (ML practice by PYTORCH, YOLO3, GEN, Numpy)<br/>
-  || 2021 BIG contest: Study of expectation of food waste in Jeju island (data: 2018.01 ~ 2021.06) <br/>
+  || Study of expectation of food waste in Jeju island (data: 2018.01 ~ 2021.06) <br/>
 <br/>
 2020 :<br/>
   || 9th Science ODA Booth exhibition with Face Expression API<br/>
@@ -36,6 +36,8 @@
   || Travel App for Foreign Traveler (espacially for Bus route and Halal Food) <br/>
   || Moblile security camera by 3D printing <br/>
   ~ selected as 'Teen R&D Maker' and more booth exhibition
+
+- - -
 
 <h3 align="left">My skills</h3>
 - 정보처리기능사 <br/>
