@@ -30,7 +30,7 @@
   || Seoul Student MakerFair with Button-press Game consol by Arduino<br/>
 <br/>
 2019 :<br/>
-  || Study of personalization to Study environment by MicroBit, bio sensor<br/>
+  || Study of personalization in Study environment by MicroBit, Bio sensor<br/>
   || Study of Drone and IT tech of ShangHai (EastAsia Youth Culture Forum)<br/>
 <br/>
 2018 :<br/>
