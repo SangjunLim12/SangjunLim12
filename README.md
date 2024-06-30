@@ -1,14 +1,15 @@
 <p align = "center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=DEEP-DIVE&fontsize=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=DEEP-DIVE&fontsize=20" />
 </p> <br/>
 
 <h3 align="center">summary</h3>
 
 <h3 align="left">about me</h3>
 - 💬 My MBTI : ENTJ <br/>
-- 🔭 I’m currently Studying at Chung-Ang University (2021.03 ~) <br/>
-- 🔭 I've Studied at CUAI (4th)  <br/>
-- 🌱 I’m currently learning Java and Spring <br/>
+- 🔭 Currently Studying Software Engineering at Chung-Ang University (2021.03 ~)<br/>
+- 🔭 ROKAF 834th : served as Digital Flight SW(Legacy & New model) operation and management (2022.01~2023.10)<br/> 
+- 🔭 41th Daewon Highschool Vice student president<br/>
+- 🔭 Studied as International student at RCA, Surrey, BC, Canada (2015~2016)<br/>
 
 <h3 align="left">interested in</h3>
 - 🎬 watching movies <br/>
@@ -19,19 +20,21 @@
 - - -
 <h3 align="left">projects</h3>
 2021 :<br/>
-  || CUAI conference (ML practice with PYTORCH, YOLO3, GEN, Numpy)<br/>
+  || CUAI conference 4th (ML practice by PYTORCH, YOLO3, GEN, Numpy)<br/>
+  || 2021 BIG contest: Study of expectation of food waste in Jeju island (data: 2018.01 ~ 2021.06) <br/>
 <br/>
 2020 :<br/>
   || 9th Science ODA Booth exhibition with Face Expression API<br/>
   || Seoul MakerFair, Gwangjin innovation festival with Face Expression API<br/>
+  || Seoul Student MakerFair with Button-press Game consol by Arduino<br/>
 <br/>
 2019 :<br/>
-  || Study of personal Study environment with MicroBit<br/>
+  || Study of personal Study environment by MicroBit<br/>
   || Study of Dron and IT tech of ShangHai (EastAsia Youth Culture Forum)<br/>
 <br/>
 2018 :<br/>
   || Travel App for Foreign Traveler (espacially for Bus route and Halal Food) <br/>
-  || Moblile security camera with 3D printing <br/>
+  || Moblile security camera by 3D printing <br/>
   ~ selected as 'Teen R&D Maker' and more booth exhibition
 
 <h3 align="left">My skills</h3>
@@ -40,7 +43,7 @@
 
 - - -
 <h3 align="left">Joined at</h3>
-- 청각장애복지관 학습 멘토링 (2016~2020)
+- 청각장애복지관 학습 멘토링 (2016~2020)<br/>
 - 교내 SW 캠프 멘토링 (2018~2020)
 
 - - -
