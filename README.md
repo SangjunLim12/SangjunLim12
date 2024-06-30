@@ -30,7 +30,7 @@
 <br/>
 2019 :<br/>
   || Study of personalization to Study environment by MicroBit, bio sensor<br/>
-  || Study of Dron and IT tech of ShangHai (EastAsia Youth Culture Forum)<br/>
+  || Study of Drone and IT tech of ShangHai (EastAsia Youth Culture Forum)<br/>
 <br/>
 2018 :<br/>
   || Travel App for Foreign Traveler (espacially for Bus route and Halal Food) <br/>
