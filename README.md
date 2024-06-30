@@ -2,6 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=DEEP-DIVE&fontsize=20" />
 </p> <br/>
 
+- - -
+
 <h3 align="center">summary</h3>
 
 <h3 align="left">about me</h3>
@@ -51,16 +53,16 @@
 
 - - -
 
-<h3 align="center">Learning:</h3> <p align="center">
+<h3 align="center">I am Learning:</h3> <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<h3 align="center">can handle:</h3>
+<h3 align="center">I can Handle:</h3>
 <p align="center">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
-<h3 align="center">Tools:</h3> <p align="center">
+<h3 align="center">I can use as Tools:</h3> <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
