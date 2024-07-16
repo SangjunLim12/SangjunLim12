@@ -22,6 +22,8 @@
 
 - - -
 <h3 align="left">projects</h3>
+2024:<br/>
+  || Generative AI appliance in Google Drive by LangChain <br/>
 2021 :<br/>
   || CUAI conference 4th (ML practice by PYTORCH, YOLO3, GEN, Numpy)<br/>
   || Study of expectation of food waste in Jeju island (data: 2018.01 ~ 2021.06) <br/>
