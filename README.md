@@ -44,6 +44,8 @@
   ~ selected as 'Teen R&D Maker' and more booth exhibition
 
 - - -
+<h3 align="left">💼 I've worked at..</h3>
+- Spectra as AI Intern (24.07.~24.08.)<br/>
 
 <h3 align="left">My skills</h3>
 - 정보처리기능사 <br/>
