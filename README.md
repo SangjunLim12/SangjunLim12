@@ -23,7 +23,7 @@
 - - -
 <h3 align="left">projects</h3>
 2024:<br/>
-  || Generative AI appliance in Google Drive by LangChain & Hugging Face(07.01~08.30)<br/>
+  || Generative AI appliance in Google Drive by implementing RAG search; LangChain & Hugging Face(07.01~08.30)<br/>
   <br/>
 2021 :<br/>
   || CUAI conference 4th (ML practice by PYTORCH, YOLO3, GEN, Numpy)<br/>
@@ -41,7 +41,7 @@
 2018 :<br/>
   || Travel App for Foreign Traveler (espacially for Bus route and Halal Food) <br/>
   || Moblile security camera by 3D printing <br/>
-  ~ selected as 'Teen R&D Maker' and more booth exhibition
+  ~ nominated as 'Teen R&D Maker' and more booth exhibition
 
 - - -
 <h3 align="left">💼 I've worked at..</h3>
