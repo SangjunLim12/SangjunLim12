@@ -51,6 +51,7 @@
 <h3 align="left">My skills</h3>
 - 정보처리기능사 <br/>
 - TOEIC 920 (21.08.22)<br/>
+- TOEFL 110 (25.07.02)<br/>
 
 - - -
 <h3 align="left">Joined at</h3>
