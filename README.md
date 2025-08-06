@@ -46,6 +46,7 @@
 - - -
 <h3 align="left">💼 I've worked at..</h3>
 - Spectra as AI Intern (24.07.~24.08.)<br/>
+- GreenRibbon as B2B Intern (25.04.~ )<br/>
 
 <h3 align="left">My skills</h3>
 - 정보처리기능사 <br/>
