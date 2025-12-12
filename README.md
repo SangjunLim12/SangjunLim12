@@ -17,7 +17,7 @@
 - 📷 taking photos <br/>
 - 🎬 watching movies <br/>
 - 📚 reading books <br/>
-- ⚾ watching base ball <br/>
+- ⚾ watching KBO <br/>
 - 🍽 daily cooking <br/>
 
 - - -
