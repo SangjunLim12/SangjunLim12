@@ -46,11 +46,11 @@
 - - -
 <h3 align="left">💼 I've worked at..</h3>
 - Spectra as AI Intern (24.07.~24.08.)<br/>
-- GreenRibbon as B2B Intern (25.04.~ )<br/>
+- GreenRibbon as B2B team Backend Developer (25.04.~25.12.)<br/>
 
 <h3 align="left">My skills</h3>
 - 정보처리기능사 <br/>
-- TOEIC 920 (21.08.22)<br/>
+- TOEIC 965 (25.08.24)<br/>
 - TOEFL 110 (25.07.02)<br/>
 
 - - -
